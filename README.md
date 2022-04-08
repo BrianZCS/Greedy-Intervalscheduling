@@ -6,3 +6,5 @@ positive integers i and j, where i < j, and i is the start time, and j is the en
 
 For each instance, your program should output the number of intervals scheduled on a separate line.
 O(n log n)
+
+You can use "make" and "make run" to use the program.
